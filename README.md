@@ -20,7 +20,7 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 🎓 Computer Science Engineering Graduate
-💯 CGPA **9.03**
+💯 CGPA-9.03
 
 💻 Passionate about
 
