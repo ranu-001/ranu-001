@@ -431,8 +431,8 @@ Production CI/CD
 🌱 AWS DevOps
 🌱 Shell Scripting
 🌱 Monitoring Tools
-
 ```
+
 # 💡 My Philosophy
 
 > **"Every project I build is an opportunity to learn, improve, and become a better engineer."**
