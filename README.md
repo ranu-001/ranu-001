@@ -312,9 +312,13 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 > **Tech Stack:** Java • Spring Boot • Hibernate • MySQL • HTML • CSS • JavaScript
 
 ✔ Secure User Authentication & Authorization
+
 ✔ Ticket Booking & Cancellation
+
 ✔ Seat Selection Module
+
 ✔ REST API Integration
+
 ✔ Responsive User Interface
 
 🔗 Repository:
@@ -327,9 +331,13 @@ https://github.com/ranu-001/BookMyTicket
 > **Tech Stack:** Jenkins • GitHub • Maven • Linux
 
 ✔ Created Declarative Pipelines
+
 ✔ GitHub Webhook Integration
+
 ✔ Automated Maven Builds
+
 ✔ Build Notifications
+
 ✔ CI/CD Workflow Automation
 
 🔗 Repository:
@@ -342,11 +350,17 @@ https://github.com/ranu00-1/jenkins_task
 > **Services Used**
 
 ✔ EC2
+
 ✔ IAM
+
 ✔ VPC
+
 ✔ Auto Scaling
+
 ✔ Elastic Load Balancer
+
 ✔ Security Groups
+
 ✔ Linux Server Configuration
 
 ---
@@ -418,6 +432,7 @@ Production CI/CD
 🌱 Shell Scripting
 🌱 Monitoring Tools
 
+```
 # 💡 My Philosophy
 
 > **"Every project I build is an opportunity to learn, improve, and become a better engineer."**
@@ -455,14 +470,6 @@ Production CI/CD
 🚀 Software Engineer
 
 ---
-# ⚡ Fun Facts
-
-✨ I love automating repetitive tasks.
-🚀 Learning something new every day.
-💙 Passionate about Cloud & DevOps.
-🔥 Building real-world projects to strengthen my skills.
-
----
 
 # 💬 Quote I Believe In
 
@@ -472,13 +479,20 @@ Production CI/CD
 
 </div>
 
+
+
 # 🚀 2026 Mission
 
 ✅ Become a Professional DevOps Engineer
+
 ✅ Master Docker & Kubernetes
+
 ✅ Build Production CI/CD Pipelines
+
 ✅ Achieve AWS Certifications
+
 ✅ Contribute to Open Source
+
 ✅ Solve Real-World Problems with Automation
 
 ---
