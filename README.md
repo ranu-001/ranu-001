@@ -22,6 +22,7 @@
 🎓 Computer Science Engineering Graduate
 💯 CGPA-9.03
 
+
 💻 Passionate about
 
 - Java Fullsack Development
@@ -140,11 +141,17 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 # ☁️ Cloud Skills
 
 ✅ Amazon EC2
+
 ✅ IAM
+
 ✅ VPC
+
 ✅ Security Groups
+
 ✅ Auto Scaling
+
 ✅ Elastic Load Balancer
+
 ✅ Cloud Deployment
 
 ---
@@ -152,12 +159,19 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 # ⚙️ DevOps Skills
 
 ✔ Git
+
 ✔ GitHub
+
 ✔ Maven
+
 ✔ Jenkins
+
 ✔ Docker
+
 ✔ Linux
+
 ✔ CI/CD Pipelines
+
 ✔ Shell Scripting
 
 ---
@@ -165,13 +179,21 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 # 💻 Development Skills
 
 ✔ Java
+
 ✔ Spring Boot
+
 ✔ REST APIs
+
 ✔ HTML
+
 ✔ CSS
+
 ✔ JavaScript
+
 ✔ JDBC
+
 ✔ Hibernate
+
 ✔ MySQL
 
 ---
@@ -213,14 +235,6 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ranu-001&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
----
 
 # 📈 Contribution Graph
 
@@ -277,10 +291,15 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 # 🚀 GitHub Highlights
 
 ⭐ Open Source Enthusiast
+
 💻 Passionate Java Developer
+
 ☁️ Cloud & DevOps Learner
+
 ⚙️ CI/CD Automation Explorer
+
 🐳 Docker Enthusiast
+
 🚀 AWS Practitioner
 
 🌱 Continuous Learner
@@ -336,17 +355,24 @@ https://github.com/ranu00-1/jenkins_task
 ### Java Full Stack Developer Intern
 
 ✔ Developed Java Full Stack Applications
+
 ✔ Worked with Spring Boot
+
 ✔ Designed REST APIs
+
 ✔ Database Integration
+
 ✔ Version Control using Git & GitHub
 
 
 # 🏆 Achievements
 
 🚀 Built multiple Full Stack and DevOps projects
+
 ⚙️ Hands-on experience with CI/CD using Jenkins
+
 ☁️ Experience deploying applications on AWS
+
 💻 Strong foundation in Java and Spring Boot
 
 # 🗺️ DevOps Learning Roadmap
