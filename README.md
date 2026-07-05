@@ -19,9 +19,7 @@
 # 💫 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
 🎓 Computer Science Engineering Graduate
-
 💯 CGPA **9.03**
 
 💻 Passionate about
@@ -83,18 +81,6 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 
 ---
 
-# ⚡ Fun Facts
-
-✨ I love automating repetitive tasks.
-
-🚀 Learning something new every day.
-
-💙 Passionate about Cloud & DevOps.
-
-🔥 Building real-world projects to strengthen my skills.
-
----
-
 > **"Success in DevOps is not about writing more code; it's about delivering better software faster."**
 ---
 
@@ -149,49 +135,16 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 </p>
 
 </div>
-
----
-
-# 🚀 DevOps Journey
-
-```text
-Git & GitHub
-      │
-      ▼
-     Maven
-      │
-      ▼
-    Jenkins
-      │
-      ▼
-Docker Build
-      │
-      ▼
-Docker Hub
-      │
-      ▼
-AWS EC2
-      │
-      ▼
-Application Deployment
-```
-
 ---
 
 # ☁️ Cloud Skills
 
 ✅ Amazon EC2
-
 ✅ IAM
-
 ✅ VPC
-
 ✅ Security Groups
-
 ✅ Auto Scaling
-
 ✅ Elastic Load Balancer
-
 ✅ Cloud Deployment
 
 ---
@@ -199,19 +152,12 @@ Application Deployment
 # ⚙️ DevOps Skills
 
 ✔ Git
-
 ✔ GitHub
-
 ✔ Maven
-
 ✔ Jenkins
-
 ✔ Docker
-
 ✔ Linux
-
 ✔ CI/CD Pipelines
-
 ✔ Shell Scripting
 
 ---
@@ -219,19 +165,13 @@ Application Deployment
 # 💻 Development Skills
 
 ✔ Java
-
 ✔ Spring Boot
-
 ✔ REST APIs
-
 ✔ HTML
-
 ✔ CSS
-
 ✔ JavaScript
-
-✔ SQL
-
+✔ JDBC
+✔ Hibernate
 ✔ MySQL
 
 ---
@@ -239,15 +179,10 @@ Application Deployment
 # 🎯 Currently Exploring
 
 🌱 Kubernetes
-
 🌱 Terraform
-
 🌱 GitHub Actions
-
 🌱 Advanced Docker
-
 🌱 AWS DevOps
-
 🌱 Monitoring Tools
 
 ---
@@ -261,19 +196,18 @@ Application Deployment
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranu-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranu-001&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ranu-001&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -283,37 +217,25 @@ Application Deployment
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ranu-001&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
-
 ---
 
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranu-001&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 ---
 
 # 📅 Contribution Calendar
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/409EFF/YOUR_GITHUB_USERNAME" />
-
-</div>
-
----
-
-# ⚡ Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://ghchart.rshah.org/409EFF/ranu-001" />
 
 </div>
 
@@ -323,21 +245,20 @@ Application Deployment
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranu-001&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranu-001&theme=tokyonight"/>
 
 </div>
-
 ---
 
 # 📊 Productivity Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranu-001&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranu-001&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -356,15 +277,10 @@ Application Deployment
 # 🚀 GitHub Highlights
 
 ⭐ Open Source Enthusiast
-
 💻 Passionate Java Developer
-
 ☁️ Cloud & DevOps Learner
-
 ⚙️ CI/CD Automation Explorer
-
 🐳 Docker Enthusiast
-
 🚀 AWS Practitioner
 
 🌱 Continuous Learner
@@ -377,17 +293,13 @@ Application Deployment
 > **Tech Stack:** Java • Spring Boot • Hibernate • MySQL • HTML • CSS • JavaScript
 
 ✔ Secure User Authentication & Authorization
-
 ✔ Ticket Booking & Cancellation
-
 ✔ Seat Selection Module
-
 ✔ REST API Integration
-
 ✔ Responsive User Interface
 
 🔗 Repository:
-https://github.com/YOUR_GITHUB_USERNAME/BookMyTicket
+https://github.com/ranu-001/BookMyTicket
 
 ---
 
@@ -396,17 +308,13 @@ https://github.com/YOUR_GITHUB_USERNAME/BookMyTicket
 > **Tech Stack:** Jenkins • GitHub • Maven • Linux
 
 ✔ Created Declarative Pipelines
-
 ✔ GitHub Webhook Integration
-
 ✔ Automated Maven Builds
-
 ✔ Build Notifications
-
 ✔ CI/CD Workflow Automation
 
 🔗 Repository:
-https://github.com/YOUR_GITHUB_USERNAME/jenkins_task
+https://github.com/ranu00-1/jenkins_task
 
 ---
 
@@ -415,92 +323,31 @@ https://github.com/YOUR_GITHUB_USERNAME/jenkins_task
 > **Services Used**
 
 ✔ EC2
-
 ✔ IAM
-
 ✔ VPC
-
 ✔ Auto Scaling
-
 ✔ Elastic Load Balancer
-
 ✔ Security Groups
-
 ✔ Linux Server Configuration
 
 ---
-
-## 🤖 Image Caption Generator
-
-> **Tech Stack:** Python • TensorFlow • Deep Learning • Streamlit
-
-✔ Automatic Image Caption Generation
-
-✔ Voice Output
-
-✔ Multi-language Translation
-
-✔ Interactive Web Interface
-
----
-
 # 💼 Internship
 
 ### Java Full Stack Developer Intern
 
 ✔ Developed Java Full Stack Applications
-
 ✔ Worked with Spring Boot
-
 ✔ Designed REST APIs
-
 ✔ Database Integration
-
 ✔ Version Control using Git & GitHub
 
----
-
-# 📜 Certifications
-
-🏅 AWS Cloud
-
-🏅 DevOps
-
-🏅 Java Full Stack Development
-
-🏅 Git & GitHub
-
-🏅 Linux Essentials
-
-*(Add certification links when available.)*
-
----
 
 # 🏆 Achievements
 
-🥇 B.E. CGPA: **9.03**
-
 🚀 Built multiple Full Stack and DevOps projects
-
 ⚙️ Hands-on experience with CI/CD using Jenkins
-
 ☁️ Experience deploying applications on AWS
-
 💻 Strong foundation in Java and Spring Boot
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Jenkins Pipelines
-- ✅ Learn Kubernetes
-- ✅ Learn Terraform
-- ✅ Deploy Production Applications
-- ✅ Contribute to Open Source
-- ✅ Earn AWS Certifications
-- ✅ Become a DevOps Engineer
-
----
 
 # 🗺️ DevOps Learning Roadmap
 
@@ -535,46 +382,33 @@ Monitoring
 Production CI/CD
 ```
 
----
-
 # 📚 Currently Learning
 
 🌱 Jenkins Pipelines
-
 🌱 Docker
-
 🌱 Kubernetes
-
 🌱 Terraform
-
 🌱 AWS DevOps
-
 🌱 Shell Scripting
-
 🌱 Monitoring Tools
-
----
 
 # 💡 My Philosophy
 
 > **"Every project I build is an opportunity to learn, improve, and become a better engineer."**
-
----
----
-
+> 
 # 🌐 Let's Connect
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ranjita-vaddebail-9a663a352">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ranjitavaddebail001@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ranu-001">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -595,6 +429,14 @@ Production CI/CD
 🚀 Software Engineer
 
 ---
+# ⚡ Fun Facts
+
+✨ I love automating repetitive tasks.
+🚀 Learning something new every day.
+💙 Passionate about Cloud & DevOps.
+🔥 Building real-world projects to strengthen my skills.
+
+---
 
 # 💬 Quote I Believe In
 
@@ -604,32 +446,13 @@ Production CI/CD
 
 </div>
 
----
-
-# 📈 Contribution Snake Animation
-
-> Enable this after creating the GitHub Action in your profile repository.
-
-```markdown
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-```
-
----
-
 # 🚀 2026 Mission
 
 ✅ Become a Professional DevOps Engineer
-
 ✅ Master Docker & Kubernetes
-
 ✅ Build Production CI/CD Pipelines
-
 ✅ Achieve AWS Certifications
-
 ✅ Contribute to Open Source
-
 ✅ Solve Real-World Problems with Automation
 
 ---
