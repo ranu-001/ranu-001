@@ -2,15 +2,15 @@
 
 # 👋 Hello, I'm Ranjita Vaddebail
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=850&lines=Aspiring+DevOps+Engineer;Java+Full+Stack+Developer;AWS+%7C+Docker+%7C+Jenkins;CI%2FCD+Pipeline+Builder;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=850&lines=Aspiring+Software+Developer;DevOps+Engineer;AWS+%7C+Docker+%7C+Jenkins;CI%2FCD+Pipeline+Builder;Always+Learning+New+Technologies+🚀" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ranu-001&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ranu-001E?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ranu001?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
@@ -26,9 +26,9 @@
 
 💻 Passionate about
 
+- Java Fullsack Development
 - DevOps Engineering
 - Cloud Computing
-- Java Full Stack Development
 - CI/CD Automation
 - Linux Administration
 
@@ -36,6 +36,7 @@
 
 - Kubernetes
 - Terraform
+- Docker
 - GitHub Actions
 - Advanced Jenkins
 - AWS DevOps
@@ -66,15 +67,15 @@ To become a Professional DevOps Engineer capable of designing scalable cloud inf
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ranjita-vaddebail-9a663a352">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ranjitavaddebail001@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ranu-001">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
