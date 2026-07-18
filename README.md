@@ -23,8 +23,8 @@
 💯 CGPA-9.03
 
 
-💻 Passionate about
 
+💻 Passionate about
 - Java Fullsack Development
 - DevOps Engineering
 - Cloud Computing
